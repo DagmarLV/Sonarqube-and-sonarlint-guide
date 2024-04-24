@@ -78,7 +78,7 @@ sonar {
     properties {
         property "sonar.projectKey", "ayudantias"
         property "sonar.host.url", "http://localhost:9000"
-        property "sonar.login", "sqp_dfeb71d2e4c5aac30c38c22a89117e605366d727"
+        property "sonar.login", ""
     }
 }*/
 
