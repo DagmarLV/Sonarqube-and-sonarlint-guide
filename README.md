@@ -43,7 +43,7 @@ These steps will increase the limits for the sonarqube user and set the paramete
 1. Edit the `limits.conf` file using the command:
     
     ```
-    sudo vim /etc/security/limits.conf
+    sudo nano /etc/security/limits.conf
     ```
     
 2. Paste the following values at the bottom of the file:
@@ -56,7 +56,7 @@ These steps will increase the limits for the sonarqube user and set the paramete
 3. Edit the `sysctl.conf` file using the command:
     
     ```
-    sudo vim /etc/sysctl.conf
+    sudo nano /etc/sysctl.conf
     ```
     
 4. Paste the following value at the bottom of the file:
@@ -89,7 +89,7 @@ These steps will increase the limits for the sonarqube user and set the paramete
 2. Create service for Sonarqube
     
     ```jsx
-    sudo vim /etc/systemd/system/sonar.service
+    sudo nano /etc/systemd/system/sonar.service
     ```
     
 3. Paste the following into the file:
