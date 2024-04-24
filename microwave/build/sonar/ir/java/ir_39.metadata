@@ -1,0 +1,3 @@
+microwave.Microwave#setPowerLevel(I)V
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#

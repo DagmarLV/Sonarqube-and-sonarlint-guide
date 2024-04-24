@@ -1,0 +1,63 @@
+
+-microwave.Preset#toString()Ljava/lang/String;R
+H/home/jhonnatan/Downloads/actividad2/src/main/java/microwave/Preset.java ("1*·
+1	 (f
+d
+ (
+%0java.lang.String"__id*:
+
+__unknown_file (*
+microwave.Preset"
+names
+q
+	 (
+%1java.lang.String"__concat*
+	 (
+Preset [name=*$
+ (
+
+%0java.lang.Strings
+q
+	 (1
+%2java.lang.String"__concat*$
+	 (
+
+%1java.lang.String*
+" (1
+, timeToCook=h
+f
+	 (>
+%3java.lang.String"__concat*$
+	 (1
+
+%2java.lang.String*
+4 (>
+""s
+q
+	 (P
+%4java.lang.String"__concat*$
+	 (>
+
+%3java.lang.String*
+A (P
+, powerLevel=h
+f
+	 (]
+%5java.lang.String"__concat*$
+	 (P
+
+%4java.lang.String*
+S (]
+""g
+e
+	 (d
+%6java.lang.String"__concat*$
+	 (]
+
+%5java.lang.String*
+a (d
+]"$
+ (e
+
+%6java.lang.StringB
+microwave.PresetH

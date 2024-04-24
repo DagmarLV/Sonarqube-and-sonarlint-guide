@@ -1,0 +1,3 @@
+microwave.Microwave#getTickRateInHz()I
+==
+getTickRateInHz microwave.DisplayController#getTickRateInHz()I

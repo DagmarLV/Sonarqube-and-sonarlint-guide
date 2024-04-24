@@ -1,0 +1,7 @@
+organization=ayudantias
+projectKey=ayudantias_microwave
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.53909
+dashboardUrl=https://sonarcloud.io/dashboard?id=ayudantias_microwave
+ceTaskId=AY8Jqgd7USVGAeGoB_eO
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY8Jqgd7USVGAeGoB_eO

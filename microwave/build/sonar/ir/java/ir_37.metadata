@@ -1,0 +1,10 @@
+microwave.Microwave#presetPressed(I)V
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#
+==
+setPowerLevel microwave.Microwave#setPowerLevel(I)V
+get java.util.List#get(I)Ljava/lang/Object;
+getTimeToCook microwave.Preset#getTimeToCook()I
+setTimeToCook microwave.DisplayController#setTimeToCook(I)V
+getPowerLevel microwave.Preset#getPowerLevel()I
+size java.util.List#size()I

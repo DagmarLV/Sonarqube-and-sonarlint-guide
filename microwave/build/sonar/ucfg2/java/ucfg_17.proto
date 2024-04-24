@@ -1,0 +1,250 @@
+
+@microwave.ModeController#tick(ZZ)Lmicrowave/ModeController$Mode;Z
+P/home/jhonnatan/Downloads/actividad2/src/main/java/microwave/ModeController.java   ("1"11"13"2"8*Ê
+13#
+ #([
+Y
+#
+ #(#
+%0microwave.ModeController$Mode"__id*"
+
+__unknown_file (
+""[
+Y
+#
+ #(#
+%1microwave.ModeController$Mode"__id*"
+
+__unknown_file (
+""{
+y
+# #($
+microwave.ModeController"
+mode"__id*A
+
+__unknown_file (%
+#
+%1microwave.ModeController$Mode*
+1*Ì
+20
+ 0(\
+Z
+0
+ 0($
+%20microwave.ModeController$Mode"__id*"
+
+__unknown_file (
+""\
+Z
+0
+ 0($
+%21microwave.ModeController$Mode"__id*"
+
+__unknown_file (
+""|
+z
+0 0($
+microwave.ModeController"
+mode"__id*B
+
+__unknown_file (&
+$
+%21microwave.ModeController$Mode*
+1*Ì
+5, ,(\
+Z
+, ,($
+%18microwave.ModeController$Mode"__id*"
+
+__unknown_file (
+""\
+Z
+, ,($
+%19microwave.ModeController$Mode"__id*"
+
+__unknown_file (
+""|
+z
+, ,($
+microwave.ModeController"
+mode"__id*B
+
+__unknown_file (&
+$
+%19microwave.ModeController$Mode*
+1*¦
+6+ +(|
+z
++ +($
+%14microwave.ModeController$Mode"__id*B
+
+__unknown_file (&*$
+microwave.ModeController"
+mode\
+Z
++ +($
+%15microwave.ModeController$Mode"__id*"
+
+__unknown_file (
+""\
+Z
++ +($$
+%16microwave.ModeController$Mode"__id*"
+
+__unknown_file (
+""Ô
+Ñ
++ +($
+%17boolean"	__compare*"
+
+__unknown_file (
+==*B
+
+__unknown_file (&
+$
+%14microwave.ModeController$Mode*B
+
+__unknown_file (&
+$
+%16microwave.ModeController$Mode*
+5
+1*Ì
+7* *(\
+Z
+* *($
+%12microwave.ModeController$Mode"__id*"
+
+__unknown_file (
+""\
+Z
+* *($
+%13microwave.ModeController$Mode"__id*"
+
+__unknown_file (
+""|
+z
+* *($
+microwave.ModeController"
+mode"__id*B
+
+__unknown_file (&
+$
+%13microwave.ModeController$Mode*
+1*£
+8) )({
+y
+) )(#
+%8microwave.ModeController$Mode"__id*B
+
+__unknown_file (&*$
+microwave.ModeController"
+mode[
+Y
+) )(#
+%9microwave.ModeController$Mode"__id*"
+
+__unknown_file (
+""\
+Z
+) )($
+%10microwave.ModeController$Mode"__id*"
+
+__unknown_file (
+""Ó
+Ð
+) )(
+%11boolean"	__compare*"
+
+__unknown_file (
+==*A
+
+__unknown_file (%
+#
+%8microwave.ModeController$Mode*B
+
+__unknown_file (&
+$
+%10microwave.ModeController$Mode*
+6
+7*Ê
+10&
+ &([
+Y
+&
+ &(#
+%6microwave.ModeController$Mode"__id*"
+
+__unknown_file (
+""[
+Y
+&
+ &(#
+%7microwave.ModeController$Mode"__id*"
+
+__unknown_file (
+""{
+y
+& &($
+microwave.ModeController"
+mode"__id*A
+
+__unknown_file (%
+#
+%7microwave.ModeController$Mode*
+1*¨
+11% %({
+y
+% %(#
+%2microwave.ModeController$Mode"__id*B
+
+__unknown_file (&*$
+microwave.ModeController"
+mode[
+Y
+% %(##
+%3microwave.ModeController$Mode"__id*"
+
+__unknown_file (
+""[
+Y
+% %(+#
+%4microwave.ModeController$Mode"__id*"
+
+__unknown_file (
+""Ñ
+Î
+% %(+
+%5boolean"	__compare*"
+
+__unknown_file (
+==*A
+
+__unknown_file (%
+#
+%2microwave.ModeController$Mode*A
+
+__unknown_file (%
+#
+%4microwave.ModeController$Mode*
+2
+8
+10
+1*¿
+13 3(|
+z
+6	 6($
+%22microwave.ModeController$Mode"__id*B
+
+__unknown_file (&*$
+microwave.ModeController"
+mode"2
+6 6(&
+$
+%22microwave.ModeController$Mode: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B
+microwave.ModeController

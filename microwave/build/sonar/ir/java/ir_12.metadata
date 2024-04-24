@@ -1,0 +1,5 @@
+microwave.DisplayController#setTimeToCook(I)V
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#
+==
+setDigits microwave.DisplayController#setDigits([B)V

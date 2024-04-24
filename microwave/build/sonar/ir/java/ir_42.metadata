@@ -1,0 +1,5 @@
+microwave.Microwave#tick()V
+==
+tick microwave.DisplayController#tick(Lmicrowave/ModeController$Mode;)V
+timeToCook microwave.DisplayController#timeToCook()I
+tick microwave.ModeController#tick(ZZ)Lmicrowave/ModeController$Mode;

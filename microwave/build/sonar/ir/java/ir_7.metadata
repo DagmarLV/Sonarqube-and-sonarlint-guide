@@ -1,0 +1,5 @@
+microwave.DisplayController#tick(Lmicrowave/ModeController$Mode;)V
+==
+secondElapsed microwave.DisplayController#secondElapsed()Z
+timeToCook microwave.DisplayController#timeToCook()I
+clearDigitPressed microwave.DisplayController#clearDigitPressed()V

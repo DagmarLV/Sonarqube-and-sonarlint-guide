@@ -1,0 +1,5 @@
+microwave.Microwave#clearPressed()V
+==
+getMode microwave.ModeController#getMode()Lmicrowave/ModeController$Mode;
+clearKeyPressed microwave.DisplayController#clearKeyPressed(Lmicrowave/ModeController$Mode;)V
+setClearPressed microwave.ModeController#setClearPressed(Z)V
